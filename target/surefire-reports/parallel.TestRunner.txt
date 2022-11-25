@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: parallel.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in parallel.TestRunner
+initializationError(parallel.TestRunner)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: D:\CAREER\UpdatedWorkspace1\ProjPracticeParallel\src\test\java\appfeatures
+
